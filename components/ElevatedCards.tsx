@@ -67,7 +67,7 @@ const styles = StyleSheet.create({
     shadowRadius: 2,
   },
   cardText: {
-    color: "#0f098f",
+    color: "#2B2B52",
     fontSize: 16,
     fontWeight: '500'
   },
